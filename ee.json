@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "blocked": "ON",
+    "blocked": "off",
     "new_package": "com.seekee.androuiad.app"
   }
 }
